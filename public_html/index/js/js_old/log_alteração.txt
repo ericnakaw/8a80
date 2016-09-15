@@ -1,0 +1,8 @@
+29/10/2015 
+Foram atualizados os arquivos desta pasta.
+Caso algum problema venha a ocorer, copiar tudo desta pasta e colocar na pasta extarna a esta...
+{
+- bootstrap;
+- bootstrap.min
+- npm
+}
